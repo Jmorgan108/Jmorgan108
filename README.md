@@ -23,5 +23,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmorgan108&show_icons=true&locale=en&layout=compact" alt="jmorgan108" /></p>
 
-[![Josh's's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmorgan108)](https://github.com/anuraghazra/github-readme-stats)
+[![Josh's's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmorgan108&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
