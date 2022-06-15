@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript in depth and SQL Management**
 
-- 👨‍💻 All of my projects and CV are available at [Jmorgan108.Github.io](Jmorgan108.Github.io)
+- 👨‍💻 All of my projects and CV are available at [Jmorgan108.Github.io](https://jmorgan108.github.io/)
 
 - 📫 How to reach me **JoshuaReubenMorgan@gmail.com**
 
