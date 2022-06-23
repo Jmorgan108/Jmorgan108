@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Updating my Personal portfolio with personal projects**
 
-- 🌱 I’m currently learning **JavaScript in depth and SQL Management**
+- 🌱 I’m currently learning **JavaScript in depth inlcuding comparing frameworks and SQL Management using SQL studio and looking into using Firebase**
 
-- 👨‍💻 All of my projects and CV are available at [Jmorgan108.Github.io](https://jmorgan108.github.io/)
+- 👨‍💻 All of my projects and CV are available at: [Jmorgan108.Github.io](https://jmorgan108.github.io/)
 
-- 📫 How to reach me **JoshuaReubenMorgan@gmail.com**
+- 📫 How to reach me: **JoshuaReubenMorgan@gmail.com**
 
 - ⚡ Fun fact **I'm actually quite a funny guy!**
 
