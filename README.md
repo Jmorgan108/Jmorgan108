@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Updating my Personal portfolio with personal projects**
 
-- 🌱 I’m currently learning **JavaScript in depth inlcuding comparing frameworks and SQL Management using SQL studio and looking into using Firebase**
+- 🌱 I’m currently learning **JavaScript in depth including comparing frameworks and SQL Management using SQL studio and looking into using Firebase**
 
 - 👨‍💻 All of my projects and CV are available at: [Jmorgan108.Github.io](https://jmorgan108.github.io/)
 
