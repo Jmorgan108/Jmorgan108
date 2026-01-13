@@ -19,8 +19,8 @@
 </p>
 
 <h3 align="left">Skills Profile:</h3>
-<p>Programming Languages: C#, JavaScript, HTML5, CSS3, SQL (MSSQL)
-Technologies: Git (GitLab/GitHub/Azure DevOps), CI/CD (Github Actions/GitLab CI)
-Frameworks & Libraries: .NET Core, .NET Framework, Blazor, NUnit, FakeItEasy, Cypress
-Methodologies and Practices: Agile, Ticket-driven development, Defensive programming, Automated Testing
+<p>Programming Languages: C#, JavaScript, HTML5, CSS3, SQL (MSSQL)<br>
+Technologies: Git (GitLab/GitHub/Azure DevOps), CI/CD (Github Actions/GitLab CI)<br>
+Frameworks & Libraries: .NET Core, .NET Framework, Blazor, NUnit, FakeItEasy, Cypress<br>
+Methodologies and Practices: Agile, Ticket-driven development, Defensive programming, Automated Testing<br>
 Soft Skills: Public Speaking, Communication, Conflict Resolution, Team working, Requirements Gathering</p>
