@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">An Enthusiastic .NET Developer based in Cardiff, Wales</h3>
+<h3 align="center">A .NET Developer with experience building full-stack applications using C#, .NET Core, and SQL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmorgan108&label=Profile%20views&color=0e75b6&style=flat" alt="jmorgan108" /> </p>
 
-- 🔭 I’m currently working on **Updating my Personal portfolio with personal projects**
+- 🔭 Currently building and refining personal projects using JavaScripyt, and Blazor**
 
-- 🌱 I’m currently learning **JavaScript in depth including comparing frameworks and SQL Management using SQL studio and looking into using Firebase**
+- 🌱 Strengthening my JavaScript fundamentals and frontend development skills through hands-on projects**
 
-- 👨‍💻 All of my projects and CV are available at: [Jmorgan108.Github.io](https://jmorgan108.github.io/)
+- 👨‍💻 All of my projects, portfolio and CV are available at: [Jmorgan108.Github.io](https://jmorgan108.github.io/)
 
 - 📫 How to reach me: **JoshuaReubenMorgan@gmail.com**
 
-- ⚡ Fun fact **I'm actually quite a funny guy!**
+- ⚡ Fun fact **I am an avid weightlifter. I also enjoy the strategic challenge of board games and Warhammer, and have a lifelong fascination with space exploration!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
