@@ -19,8 +19,7 @@
 </p>
 
 <h3 align="left">Skills Profile:</h3>
-<p
-Programming Languages: C#, JavaScript, HTML5, CSS3, SQL (MSSQL)
+<p>Programming Languages: C#, JavaScript, HTML5, CSS3, SQL (MSSQL)
 Technologies: Git (GitLab/GitHub/Azure DevOps), CI/CD (Github Actions/GitLab CI)
 Frameworks & Libraries: .NET Core, .NET Framework, Blazor, NUnit, FakeItEasy, Cypress
 Methodologies and Practices: Agile, Ticket-driven development, Defensive programming, Automated Testing
