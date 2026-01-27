@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
 <h3 align="center">A .NET Developer with experience building full-stack applications using C#, .NET Core, and SQL</h3>
-<h3 align="center">Updating my GitHub with a lot of the simple projects and some more refined CRUD Work that I havent had the chance to the past 4-5 years</h3>
+<h3 align="center">Updating my GitHub with a lot of the simple projects and some more refined CRUD Work. Which I havent had the chance to do in the past 4-5 years</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmorgan108&label=Profile%20views&color=0e75b6&style=flat" alt="jmorgan108" /> </p>
 
 - 🔭 Currently building and refining personal projects using JavaScripyt, and Blazor**
